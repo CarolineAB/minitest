@@ -12,7 +12,6 @@ public class WordSources {
 	private Map<Integer, String> map;
 	
 	public WordSources() {
-		// TODO Auto-generated constructor stub
 		ArrayList<Word> arrayList = new ArrayList<>();
 		arrayList.add(new Word(2, "abc"));
 		arrayList.add(new Word(3, "def"));

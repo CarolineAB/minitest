@@ -39,8 +39,4 @@ public class RegexUtil {
 	    return bs;
 	}
 	
-	public static void main(String[] args) {
-		byte[] intToBytes = intToBytes(99,2);
-		System.out.println(intToBytes);
-	}
 }

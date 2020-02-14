@@ -28,6 +28,18 @@ public class EnNinePalaceInputMethodApplicationTests {
 		//结果输出：[ip, ql, wk, il, qk, ik, rp, ep, rl, wp, el, rk, qp, wl, ek]
 		printlnServiceImpl.comb("iqwer", "plk");
 	}
+	
+	/**
+	 * 类 PrintlnServiceImpl 方法 comb(String a, String b)
+	 * 
+	 * 
+	 */
+	@Test
+	public void testWriter() {
+		PrintlnServiceImpl printlnServiceImpl = new PrintlnServiceImpl(2);
+		//结果输出：[ip, ql, wk, il, qk, ik, rp, ep, rl, wp, el, rk, qp, wl, ek]
+		printlnServiceImpl.writer();
+	}
 
 	/** 工具类 RegexUtil
 	 * 方法 isNumberic(String str)

@@ -12,7 +12,6 @@ public Integer num;
 public String letter;
 
 public Word() {
-	// TODO Auto-generated constructor stub
 }
 public Word(Integer num,String letter) {
 	this.num =num;

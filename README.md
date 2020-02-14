@@ -26,6 +26,8 @@
 
 
 
-单元测试结果如下图：
+单元测试类 EnNinePalaceInputMethodApplicationTests
+
+结果如下图：
 
 ![junit 测试结果](https://github.com/CarolineAB/currencyConverter/blob/master/images/1581680339(1).jpg)

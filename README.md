@@ -11,7 +11,7 @@
 
 命令窗口输入 "java -jar EnNinePalaceInputMethod-0.0.1-SNAPSHOT.jar"，运行该项目
 
-![命令](https://github.com/CarolineAB/currencyConverter/blob/master/images/%E4%B9%9D%E8%BC%B8.jpg)
+![命令](https://github.com/CarolineAB/currencyConverter/blob/master/images/1581680281(1).jpg)
 
 ![运行](https://github.com/CarolineAB/currencyConverter/blob/master/images/1581680657(1).png)
 运行结果输出如下图
